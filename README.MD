@@ -10,7 +10,7 @@ Este projeto tem como objetivo configurar uma instância local do SonarQube util
 
 1. **Clone este repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/rodrigocarvalho10/sonarqube-local
    cd sonarqube-local
    ```
 
