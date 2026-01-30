@@ -6,6 +6,10 @@ Este projeto tem como objetivo configurar uma instância local do SonarQube util
 - Docker instalado
 - Docker Compose instalado
 
+## Versoes utilizadas
+- Sonarqube Comunnity
+- Postgre 17
+
 ## Passos para Configuração
 
 1. **Clone este repositório**:
